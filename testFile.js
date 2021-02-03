@@ -1,2 +1,3 @@
-export const test=()=>{
-console.log("Hello") ;}
+export const test = () => {
+  console.log("Hello");
+};
